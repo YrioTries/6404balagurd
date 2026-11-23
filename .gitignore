@@ -1,0 +1,7 @@
+.project_venv/
+.venv/
+.idea/
+__pycache__/
+*.pyc
+.flake8
+MetObjects.csv
